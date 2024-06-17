@@ -1,6 +1,8 @@
 # Beecrowd Caxingó
 Resolução de exercícios do [beecrowd](https://www.beecrowd.com.br/) da equipe de Maratona de Programação do [Instituto Federal do Piauí - campus Corrente](https://www.instagram.com/ifpicorrente).
+
 | NUMERO  | SOLUÇÃO | NUMERO  | SOLUÇÃO | NUMERO  | SOLUÇÃO | NUMERO  | SOLUÇÃO |
-| 1145 | ------------- | 1146 |------------- | 1150 |------------- 1151 |------------- |
-| 1151 | ------------- | 1153 |------------- | 1154 |------------- 1157 |------------- |
-| 1158 | ------------- | 1159 |------------- | ---- |------------- ---- |------------- |
+|---------|---------|---------|---------|---------|---------|---------|---------|
+| [1145](https://www.beecrowd.com.br/repository/UOJ_1145.html) | [1145](https://github.com/jhonatasjgr/Beecrowd-Caxingo/blob/main/C/1145.c) | [1146](https://www.beecrowd.com.br/repository/UOJ_1146.html) | [1146](https://github.com/jhonatasjgr/Beecrowd-Caxingo/blob/main/C/1146.c) | [1150](https://www.beecrowd.com.br/repository/UOJ_1150.html) | [1150](https://github.com/jhonatasjgr/Beecrowd-Caxingo/blob/main/C/1150.c) | [1151](https://www.beecrowd.com.br/repository/UOJ_1151.html) | [1151](https://github.com/jhonatasjgr/Beecrowd-Caxingo/blob/main/C/1151.c) | 
+| [1153](https://www.beecrowd.com.br/repository/UOJ_1153.html) | [1153](https://github.com/jhonatasjgr/Beecrowd-Caxingo/blob/main/C/1153.c) | [1154](https://www.beecrowd.com.br/repository/UOJ_1154.html) | [1154](https://github.com/jhonatasjgr/Beecrowd-Caxingo/blob/main/C/1154.c) | [1157](https://www.beecrowd.com.br/repository/UOJ_1157.html) | [1157](https://github.com/jhonatasjgr/Beecrowd-Caxingo/blob/main/C/1157.c) | [1158](https://www.beecrowd.com.br/repository/UOJ_1158.html) | [1158](https://github.com/jhonatasjgr/Beecrowd-Caxingo/blob/main/C/1158.c) |
+| [1159](https://www.beecrowd.com.br/repository/UOJ_1159.html) | [1159](https://github.com/jhonatasjgr/Beecrowd-Caxingo/blob/main/C/1159.c) |---------|---------|---------|---------|---------|---------|
